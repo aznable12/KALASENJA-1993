@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c4b5957780ad3e548884a051284a7877
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Retrophile
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6267a0fbd70c8024385058394a46a494, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
